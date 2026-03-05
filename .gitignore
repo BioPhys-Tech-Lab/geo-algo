@@ -15,6 +15,7 @@ env/
 
 # Large datasets and zip files
 *.zip
+*.rar
 data/*
 !data/rock_metadata.json
 
