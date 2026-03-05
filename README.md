@@ -10,13 +10,13 @@
 ## 📥 Dataset & Pre-Trained Models
 Due to their massive size, the full dataset and the compiled ensemble weights are hosted externally. You must download the model weights to run inferences locally.
 
-## 🪨 Model Weights (Google Drive): 
-Download the pre-trained .pth ensemble models required for classification. [Download Weights Here (Google Drive) -> ]. Note: Place all downloaded .pth files directly into the root directory of this repository. Dataset (Zenodo): 
-The complete 70,000 augmented image dataset covering 63 distinct mineralogical classes is available open-access on Zenodo. [Download Dataset Here (Zenodo) -> https://drive.google.com/drive/folders/1CIjmAcxCM40NxCHJ4xHa7kPSw2I-Qqe2?usp=sharing]
+## 🪨 Dataset (Zenodo): 
+
+The complete 70,000 augmented image dataset covering 63 distinct mineralogical classes is available open-access on Zenodo. [Download Dataset Here (Zenodo) ->https://zenodo.org/records/18868368]
 
 ## 🧠 Model Weights (Google Drive): 
 
-Download the pre-trained .pth ensemble models required for classification. [Download Weights Here (Google Drive) -> ]. Note: Place all downloaded .pth files directly into the root directory of this repository.
+Download the pre-trained .pth ensemble models required for classification. [Download Weights Here (Google Drive) -> https://drive.google.com/drive/folders/1CIjmAcxCM40NxCHJ4xHa7kPSw2I-Qqe2?usp=sharing]. Note: Place all downloaded .pth files directly into the root directory of this repository.
 
 ---
 ## 🌟 Key Features
