@@ -7,7 +7,13 @@
 **Geo-Algo** is a sophisticated computer vision platform designed to bridge the gap between 2D geological imagery and 3D architectural/mineralogical analysis. Utilizing an ensemble of specialized deep-learning models, it offers high-accuracy robust classification, fully automated 3D mesh reconstruction, and rich geological context generation all from simple 2D rock images.
 
 ---
+##📥 Dataset & Pre-trained Models
+Due to their massive size, the full dataset and the compiled ensemble weights are hosted externally. You must download the model weights to run inferences locally.
 
+##🪨 Dataset (Zenodo): The complete 70,000 augmented image dataset covering 63 distinct mineralogical classes is available open-access on Zenodo. [Download Dataset Here (Zenodo) -> https://drive.google.com/drive/folders/1CIjmAcxCM40NxCHJ4xHa7kPSw2I-Qqe2?usp=sharing]
+
+##🧠 Model Weights (Google Drive): Download the pre-trained .pth ensemble models required for classification. [Download Weights Here (Google Drive) -> ]. Note: Place all downloaded .pth files directly into the root directory of this repository.
+---
 ## 🌟 Key Features
 
 ### 1. 🧠 Dynamic Ensemble Classification Architecture
