@@ -1,0 +1,17 @@
+torch
+torchvision
+pyinaturalist
+transformers
+rembg
+trimesh
+omegaconf
+einops
+pillow
+requests
+timm
+PyMCubes
+open3d
+kagglehub
+fpdf
+moderngl
+pyrender

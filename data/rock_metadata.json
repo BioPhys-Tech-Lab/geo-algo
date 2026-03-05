@@ -1,0 +1,156 @@
+{
+    "Basalt": {
+        "type": "Igneous (Volcanic)",
+        "description": "Fine-grained basalt from the Isle of Staffa, Scotland, famous for Fingal's Cave. The matrix of glass appears fresh and unaltered in most sections but shows patchy brown staining where fluids have penetrated.",
+        "formation": "Formed from the rapid cooling of low-viscosity lava at or near the surface. The columnar jointing indicates contraction during cooling.",
+        "composition": "Composed of grains of pyroxene, olivine, and plagioclase (generally <100 microns).",
+        "source": "Virtual Microscope"
+    },
+    "Coal": {
+        "type": "Sedimentary (Organic)",
+        "description": "A combustible black or brownish-black distinctive sedimentary rock. It is often banded and may contain visible plant fossils.",
+        "formation": "Formed from the accumulation and preservation of plant debris (peat) in anoxic swamp environments, followed by compaction and heating.",
+        "composition": "Primarily carbon (50-98%), with varying amounts of hydrogen, oxygen, nitrogen, and sulfur.",
+        "source": "General Geological Reference"
+    },
+    "Granite": {
+        "type": "Igneous (Plutonic)",
+        "description": "Coarse-grained rock with large pink orthoclase feldspar megacrysts. Widely used as a decorative building stone.",
+        "formation": "Formed from the slow cooling of magma deep within the Earth's crust.",
+        "composition": "Dominated by K-feldspar megacrysts, biotite, quartz, and plagioclase feldspar.",
+        "source": "Virtual Microscope"
+    },
+    "Limestone": {
+        "type": "Sedimentary (Chemical/Biochemical)",
+        "description": "Dominated by crinoid ossicles and brachiopod shell fragments. Cemented by carbonate-rich mud.",
+        "formation": "Deposited in a marine environment, likely a shallow, warm sea.",
+        "composition": "Composed primarily of calcite (calcium carbonate).",
+        "source": "Virtual Microscope"
+    },
+    "Marble": {
+        "type": "Metamorphic",
+        "description": "Metamorphosed limestone showing evidence of low-grade metamorphism.",
+        "formation": "Formed by the metamorphism of limestone under heat and pressure.",
+        "composition": "Dominated by calcite, with patches of quartz grains.",
+        "source": "Virtual Microscope"
+    },
+    "Quartzite": {
+        "type": "Metamorphic",
+        "description": "A mica-rich metaquartzite. Formed by the intense metamorphism of sandstone.",
+        "formation": "Quartz grains recrystallize and interlock under intense heat and pressure.",
+        "composition": "Rich in quartz and muscovite.",
+        "source": "Virtual Microscope"
+    },
+    "Sandstone": {
+        "type": "Sedimentary (Clastic)",
+        "description": "Pale sandstone with patches of iron-rich cement. Represents an ancient soil.",
+        "formation": "Deposited in a low-lying, deltaic environment near the equator.",
+        "composition": "Dominated by grains of quartz and dust feldspar.",
+        "source": "Virtual Microscope"
+    },
+    "Azurite": {
+        "type": "Mineral (Carbonate)",
+        "description": "A deep blue copper mineral produced by weathering of copper ore deposits.",
+        "formation": "Secondary mineral formed in the oxidized zones of copper deposits when carbonated water reacts with copper ores.",
+        "composition": "Cu3(CO3)2(OH)2 (Copper carbonate hydroxide).",
+        "source": "Mineral Database"
+    },
+    "Baryte": {
+        "type": "Mineral (Sulfate)",
+        "description": "A dense mineral consisting of barium sulfate, often colorless or white.",
+        "formation": "Precipitates from hydrothermal fluids or in marine environments from barium-rich fluids.",
+        "composition": "BaSO4 (Barium sulfate).",
+        "source": "Mineral Database"
+    },
+    "Beryl": {
+        "type": "Mineral (Silicate)",
+        "description": "A beryllium aluminum cyclosilicate known for its hexagonal crystals and gemstone varieties like emerald.",
+        "formation": "Primarily occurs in granitic pegmatites and mica schists under high-temperature conditions.",
+        "composition": "Be3Al2(Si6O18).",
+        "source": "Mineral Database"
+    },
+    "Calcite": {
+        "type": "Mineral (Carbonate)",
+        "description": "A very common mineral, the primary component of limestone and marble.",
+        "formation": "Forms from chemical precipitation or as a biological product in marine environments.",
+        "composition": "CaCO3 (Calcium carbonate).",
+        "source": "Mineral Database"
+    },
+    "Cerussite": {
+        "type": "Mineral (Carbonate)",
+        "description": "An important secondary lead mineral, often white or gray with a high luster.",
+        "formation": "Forms through the weathering of primary lead ores like galena in oxidized deposits.",
+        "composition": "PbCO3 (Lead carbonate).",
+        "source": "Mineral Database"
+    },
+    "Copper": {
+        "type": "Native Element",
+        "description": "Elemental copper occurring naturally as a metal, often in irregular or branch-like masses.",
+        "formation": "Forms in the oxidation zones of copper deposits or in cavities within basalt.",
+        "composition": "Cu (Elemental copper).",
+        "source": "Mineral Database"
+    },
+    "Fluorite": {
+        "type": "Mineral (Halide)",
+        "description": "Famous for its vibrant colors and isometric crystals. Fluoresces under UV light.",
+        "formation": "Primarily forms in hydrothermal veins circulation mineral-rich waters through subterranean fissures.",
+        "composition": "CaF2 (Calcium fluoride).",
+        "source": "Mineral Database"
+    },
+    "Gypsum": {
+        "type": "Mineral (Sulfate)",
+        "description": "A very soft mineral containing hydrated calcium sulfate, common in evaporite deposits.",
+        "formation": "Forms in sedimentary settings through the evaporation of seawater or saline lakes.",
+        "composition": "CaSO4\u00b72H2O.",
+        "source": "Mineral Database"
+    },
+    "Hematite": {
+        "type": "Mineral (Oxide)",
+        "description": "Common iron oxide mineral with a reddish-brown streak, appearing metallic or earthy.",
+        "formation": "Forms in banded iron formations or through the oxidation of iron in various geological settings.",
+        "composition": "Fe2O3 (Iron oxide).",
+        "source": "Mineral Database"
+    },
+    "Malachite": {
+        "type": "Mineral (Carbonate)",
+        "description": "Bright green copper carbonate mineral, often used as an ore of copper or for decoration.",
+        "formation": "Secondary mineral formed in the oxidized zones of copper deposits, often with characteristic banding.",
+        "composition": "Cu2(CO3)(OH)2.",
+        "source": "Mineral Database"
+    },
+    "Pyrite": {
+        "type": "Mineral (Sulfide)",
+        "description": "Brass-yellow mineral with a metallic luster, famously known as 'fool's gold'.",
+        "formation": "Forms in various environments including hydrothermal veins, sedimentary rocks, and coal beds.",
+        "composition": "FeS2 (Iron disulfide).",
+        "source": "Mineral Database"
+    },
+    "Pyromorphite": {
+        "type": "Mineral (Phosphate)",
+        "description": "A green, yellow or brown lead mineral that forms beautiful hexagonal crystals.",
+        "formation": "Secondary mineral in the oxidation zones of lead ore deposits.",
+        "composition": "Pb5(PO4)3Cl.",
+        "source": "Mineral Database"
+    },
+    "Quartz": {
+        "type": "Mineral (Silicate)",
+        "description": "One of the most abundant minerals on Earth, forming clear to multicolored hexagonal crystals.",
+        "formation": "Forms in almost all mineral environments, primarily from cooling magma or hydrothermal veins.",
+        "composition": "SiO2 (Silicon dioxide).",
+        "source": "Mineral Database"
+    },
+    "Smithsonite": {
+        "type": "Mineral (Carbonate)",
+        "description": "A zinc carbonate mineral often occurring in botryoidal or grape-like masses.",
+        "formation": "Secondary mineral formed from the weathering of zinc ores like sphalerite.",
+        "composition": "ZnCO3.",
+        "source": "Mineral Database"
+    },
+    "Wulfenite": {
+        "type": "Mineral (Molybdate)",
+        "description": "Striking orange or yellow mineral forming thin square tabular crystals.",
+        "formation": "Secondary mineral found in the oxidized zones of lead deposits containing molybdenum.",
+        "composition": "PbMoO4.",
+        "source": "Mineral Database"
+    }
+}

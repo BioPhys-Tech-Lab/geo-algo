@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Research Dashboard - Interactive Sheets</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/MTLLoader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/OBJLoader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <div class="logo">
+                <h1>GEO-ALGO</h1>
+                <p>Advanced Specimen Analysis</p>
+            </div>
+            <nav class="sheets-nav">
+                <button class="nav-btn active" data-sheet="3d" onclick="showSheet('3d')">
+                    <span class="icon">🧊</span> 3D Specimen
+                </button>
+                <button class="nav-btn" data-sheet="depth" onclick="showSheet('depth')">
+                    <span class="icon">🌊</span> Depth Map
+                </button>
+                <button class="nav-btn" data-sheet="edges" onclick="showSheet('edges')">
+                    <span class="icon">🕸️</span> Edge Analysis
+                </button>
+                <button class="nav-btn" data-sheet="segments" onclick="showSheet('segments')">
+                    <span class="icon">🧩</span> Mineral Segments
+                </button>
+                <button class="nav-btn" data-sheet="gallery" onclick="showSheet('gallery')">
+                    <span class="icon">🖼️</span> Source Gallery
+                </button>
+            </nav>
+            <div class="metadata-card" id="metadata">
+                <h3>Specimen Info</h3>
+                <div id="meta-content">Loading...</div>
+            </div>
+        </aside>
+
+        <main class="viewer-area">
+            <div id="sheet-3d" class="sheet active">
+                <div id="canvas-container"></div>
+                <div class="controls-hint">Drag to Rotate | Scroll to Zoom</div>
+            </div>
+            <div id="sheet-depth" class="sheet">
+                <img src="../output/depth.png" alt="Depth Map" id="depth-img">
+                <div class="sheet-info">Visualization of topological distance from sensor plane.</div>
+            </div>
+            <div id="sheet-edges" class="sheet">
+                <img src="../output/edges.png" alt="Edge Detection" id="edges-img">
+                <div class="sheet-info">Detection of crystal boundaries and structural cleavage.</div>
+            </div>
+            <div id="sheet-segments" class="sheet">
+                <img src="../output/segments.png" alt="Mineral Segments" id="segments-img">
+                <div class="sheet-info">Phase segmentation based on spectral clustering.</div>
+            </div>
+            <div id="sheet-gallery" class="sheet">
+                <div class="gallery-grid" id="gallery-container">
+                    <!-- Dynamic Items -->
+                </div>
+                <div class="sheet-info">Reference images and raw inputs used for reconstruction.</div>
+            </div>
+        </main>
+    </div>
+    <script src="app.js"></script>
+</body>
+
+</html>

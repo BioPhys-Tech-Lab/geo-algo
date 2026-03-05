@@ -1,0 +1,27 @@
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch Model Weights
+*.pth
+*.pt
+
+# Virtual Environments
+venv/
+venv_new/
+env/
+.env
+
+# Large datasets and zip files
+*.zip
+data/*
+!data/rock_metadata.json
+
+# Output directories
+output/*
+!output/.gitkeep
+
+# IDE config
+.vscode/
+.idea/

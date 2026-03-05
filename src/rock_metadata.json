@@ -1,0 +1,479 @@
+{
+    "Basalt": {
+        "hardness": "6.0",
+        "specific_gravity": "3.01",
+        "crystal_system": "N/A (Igneous - Aphanitic)",
+        "composition": "Plagioclase, Pyroxene (Augite), Olivine",
+        "fracture": "Uneven to Conchoidal",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Basalt",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Basalt"
+    },
+    "Coal": {
+        "hardness": "1.0 - 3.0",
+        "specific_gravity": "1.1 - 1.4",
+        "crystal_system": "N/A (Organic Sedimentary)",
+        "composition": "Carbon, Hydrogen, Oxygen, Nitrogen",
+        "fracture": "Conchoidal to Blocky",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Coal",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Coal"
+    },
+    "Granite": {
+        "hardness": "6.0 - 7.0",
+        "specific_gravity": "2.65 - 2.75",
+        "crystal_system": "N/A (Igneous - Phaneritic)",
+        "composition": "Quartz, K-Feldspar, Plagioclase, Mica",
+        "fracture": "Uneven, Granular",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Granite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Granite"
+    },
+    "Limestone": {
+        "hardness": "3.0",
+        "specific_gravity": "2.71",
+        "crystal_system": "Trigonal (Calcite)",
+        "composition": "Calcite, Aragonite, Dolomite",
+        "fracture": "Uneven",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Limestone",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Limestone"
+    },
+    "Marble": {
+        "hardness": "3.0 - 4.0",
+        "specific_gravity": "2.71",
+        "crystal_system": "Trigonal (Recrystallized Calcite)",
+        "composition": "Calcite, Dolomite",
+        "fracture": "Granular, Uneven",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Marble",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Marble"
+    },
+    "Quartzite": {
+        "hardness": "7.0",
+        "specific_gravity": "2.7",
+        "crystal_system": "Trigonal (Recrystallized Quartz)",
+        "composition": "Quartz",
+        "fracture": "Conchoidal",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Quartzite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Quartzite"
+    },
+    "Sandstone": {
+        "hardness": "6.0 - 7.0",
+        "specific_gravity": "2.6 - 2.7",
+        "crystal_system": "N/A (Sedimentary - Clastic)",
+        "composition": "Quartz Grains, Feldspar, Clay Minerals",
+        "fracture": "Uneven",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Sandstone",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Sandstone"
+    },
+    "Amphibolite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Amphibolite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Amphibolite"
+    },
+    "Andesite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Andesite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Andesite"
+    },
+    "Anthracite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Anthracite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Anthracite"
+    },
+    "Blueschist": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Blueschist",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Blueschist"
+    },
+    "Breccia": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Breccia",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Breccia"
+    },
+    "Carbonatite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Carbonatite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Carbonatite"
+    },
+    "Chalk": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Chalk",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Chalk"
+    },
+    "Chert": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Chert",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Chert"
+    },
+    "Conglomerate": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Conglomerate",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Conglomerate"
+    },
+    "Diamictite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Diamictite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Diamictite"
+    },
+    "Dolomite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Dolomite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Dolomite"
+    },
+    "Eclogite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Eclogite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Eclogite"
+    },
+    "Evaporite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Evaporite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Evaporite"
+    },
+    "Flint": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Flint",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Flint"
+    },
+    "Gabbro": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Gabbro",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Gabbro"
+    },
+    "Gneiss": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Gneiss",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Gneiss"
+    },
+    "Granulite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Granulite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Granulite"
+    },
+    "Greenschist": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Greenschist",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Greenschist"
+    },
+    "Greywacke": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Greywacke",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Greywacke"
+    },
+    "Hornfels": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Hornfels",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Hornfels"
+    },
+    "Komatiite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Komatiite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Komatiite"
+    },
+    "Migmatite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Migmatite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Migmatite"
+    },
+    "Mudstone": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Mudstone",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Mudstone"
+    },
+    "Obsidian": {
+        "hardness": "5.0 - 5.5",
+        "specific_gravity": "2.35 - 2.60",
+        "crystal_system": "Amorphous (Volcanic Glass)",
+        "composition": "SiO2 (70%+) with MgO, Fe3O4",
+        "fracture": "Conchoidal",
+        "mindat_search_url": "https://www.mindat.org/min-8519.html",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Obsidian"
+    },
+    "Oil_shale": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Oil_shale",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Oil_shale"
+    },
+    "Oolite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Oolite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Oolite"
+    },
+    "Pegmatite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Pegmatite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Pegmatite"
+    },
+    "Phyllite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Phyllite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Phyllite"
+    },
+    "Porphyry": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Porphyry",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Porphyry"
+    },
+    "Pumice": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Pumice",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Pumice"
+    },
+    "Pyroxenite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Pyroxenite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Pyroxenite"
+    },
+    "Quartz_diorite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Quartz_diorite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Quartz_diorite"
+    },
+    "Quartz_monzonite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Quartz_monzonite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Quartz_monzonite"
+    },
+    "Quartzolite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Quartzolite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Quartzolite"
+    },
+    "Rhyolite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Rhyolite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Rhyolite"
+    },
+    "Scoria": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Scoria",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Scoria"
+    },
+    "Serpentinite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Serpentinite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Serpentinite"
+    },
+    "Shale": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Shale",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Shale"
+    },
+    "Siltstone": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Siltstone",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Siltstone"
+    },
+    "Slate": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Slate",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Slate"
+    },
+    "Talc_carbonate": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Talc_carbonate",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Talc_carbonate"
+    },
+    "Tephrite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Tephrite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Tephrite"
+    },
+    "Travertine": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Travertine",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Travertine"
+    },
+    "Tuff": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Tuff",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Tuff"
+    },
+    "Turbidite": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Turbidite",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Turbidite"
+    },
+    "Wackestone": {
+        "hardness": "N/A (Requires Expert Review)",
+        "specific_gravity": "N/A",
+        "crystal_system": "N/A",
+        "composition": "N/A",
+        "fracture": "N/A",
+        "mindat_search_url": "https://www.mindat.org/search.php?search=Wackestone",
+        "drp_search_url": "https://www.digitalrocksportal.org/projects?search=Wackestone"
+    }
+}
